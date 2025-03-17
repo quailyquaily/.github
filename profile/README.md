@@ -8,6 +8,7 @@ here are some links you may want to follow
 - 📑 [Quaily documentation](https://docs.quaily.com): Writers' treasure map for word-slinging mastery.
 - 💬 [Quaily discussion channel](https://discord.gg/VRP27AhMKm): Join the party on Discord—let’s chat!
 - 🛤️ [Quaily roadmap](https://github.com/quailyquaily/roadmap): Sneak a peek at our grand master plan.
-- 🐞 [Quaily bug tracker](https://github.com/orgs/quailyquaily/projects/2): Grab your nets—time to squash some bugs, or new feature requests.. Please [submit here](https://github.com/quailyquaily/roadmap/issues).
+- 🐞 [Quaily bug tracker](https://github.com/orgs/quailyquaily/projects/2): Grab your nets—time to squash some bugs, or new feature requests. Please [submit here](https://github.com/quailyquaily/roadmap/issues).
+- 🌎 [Quaily i18n](https://github.com/quailyquaily/quaily-i18n): Contribute translations to Quaily
 
 Let’s make some creative magic together! ✨
